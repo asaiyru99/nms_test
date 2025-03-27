@@ -2,8 +2,6 @@ import json
 import pandas as pd
 import numpy as np
 
-model = GoogleGenerativeAIEmbeddings(model="models/embedding-001",
-                                     google_api_key="AIzaSyDHSRbIV78C0d9dYsoOS0vKC9vod4ql_Vs")
 from sklearn.metrics.pairwise import cosine_similarity
 
 import streamlit as st
