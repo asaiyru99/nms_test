@@ -17,9 +17,7 @@ from dotenv import load_dotenv
 import chromadb
 
 # Force ChromaDB to use DuckDB instead of SQLite
-chroma_client = chromadb.PersistentClient(path=":memory:", database="duckdb")
-
-chroma_client = chromadb.Client()
+chroma_client = chromadb.EphemeralClient()  
 
 
 #load_dotenv()
