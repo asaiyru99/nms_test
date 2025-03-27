@@ -1,4 +1,3 @@
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
 import json
 import pandas as pd
 import numpy as np
