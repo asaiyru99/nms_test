@@ -19,6 +19,9 @@ import chromadb
 # Force ChromaDB to use DuckDB instead of SQLite
 chroma_client = chromadb.PersistentClient(path=":memory:", database="duckdb")
 
+chroma_client = chromadb.Client()
+
+
 #load_dotenv()
 
 # Only for prototype, The vector Store is refreshed .
