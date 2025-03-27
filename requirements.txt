@@ -12,6 +12,8 @@ certifi==2024.12.14
 charset-normalizer==3.4.0
 click==8.1.7
 colorama==0.4.6
+chromadb
+duckdb
 comm==0.2.2
 crewai
 crewai-tools
