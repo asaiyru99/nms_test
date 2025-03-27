@@ -12,8 +12,12 @@ from filtering_ip import get_filters_ip
 from agents_final import Call
 from dotenv import load_dotenv
 
-from langchain_pinecone import PineconeVectorStore
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
+#from langchain_pinecone import PineconeVectorStore
+#from langchain_google_genai import GoogleGenerativeAIEmbeddings
+import chromadb
+
+# Force ChromaDB to use DuckDB instead of SQLite
+chroma_client = chromadb.PersistentClient(path=":memory:", database="duckdb")
 
 #load_dotenv()
 
