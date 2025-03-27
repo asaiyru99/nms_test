@@ -13,8 +13,8 @@ charset-normalizer==3.4.0
 click==8.1.7
 colorama==0.4.6
 comm==0.2.2
-crewai==0.86.0
-crewai-tools==0.17.0
+crewai
+crewai-tools
 debugpy==1.8.11
 decorator==5.1.1
 distro==1.9.0
