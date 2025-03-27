@@ -18,6 +18,7 @@ crewai-tools
 debugpy==1.8.11
 decorator==5.1.1
 distro==1.9.0
+sqlite3 >= 3.35.0
 et_xmlfile==2.0.0
 executing==2.1.0
 filelock==3.16.1
