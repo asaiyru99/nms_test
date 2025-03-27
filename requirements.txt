@@ -76,7 +76,6 @@ parso==0.8.4
 pillow==11.0.0
 pinecone==5.4.2
 pinecone-client==5.0.1
-pinecone-plugin-inference==1.1.0
 pinecone-plugin-interface==0.0.7
 platformdirs==4.3.6
 prompt_toolkit==3.0.48
