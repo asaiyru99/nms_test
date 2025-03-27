@@ -1,0 +1,178 @@
+[
+    {
+        "IP Address": "1.23.243.13",
+        "Availability (%)": "100",
+        "Group Name": "API TEST",
+        "name": "1.23.243.13",
+        "Packet Loss - Percentage": "1",
+        "moName": "1.23.243.13",
+        "Device Name": "DC- Lavelle- Tikona-ILL-PE",
+        "Response Time - MilliSeconds": "46",
+        "moid": 40216
+    },
+    {
+        "IP Address": "1.23.243.14",
+        "Availability (%)": "100",
+        "Group Name": "API TEST",
+        "name": "1.23.243.14",
+        "Packet Loss - Percentage": "0",
+        "moName": "1.23.243.14",
+        "Device Name": "DC-Lavelle-Tikona-ILL",
+        "Response Time - MilliSeconds": "46",
+        "moid": 40213
+    },
+    {
+        "IP Address": "1.6.12.238",
+        "Availability (%)": "100",
+        "Group Name": "API TEST",
+        "name": "1.6.12.238",
+        "Packet Loss - Percentage": "0",
+        "moName": "1.6.12.238",
+        "Device Name": "DC_SIFY_ILL_PEIP",
+        "Response Time - MilliSeconds": "12",
+        "moid": 15792
+    },
+    {
+        "IP Address": "1.6.12.239",
+        "Availability (%)": "100",
+        "Group Name": "API TEST",
+        "name": "1.6.12.239",
+        "Packet Loss - Percentage": "0",
+        "moName": "1.6.12.239",
+        "Device Name": "DC_SIFY_ILL_CPEIP",
+        "Response Time - MilliSeconds": "2",
+        "moid": 15795
+    },
+    {
+        "IP Address": "1.6.14.238",
+        "Availability (%)": "100",
+        "Group Name": "API TEST",
+        "name": "1.6.14.238",
+        "Packet Loss - Percentage": "1",
+        "moName": "1.6.14.238",
+        "Device Name": "DC- Lavelle- Sify-ILL-PE",
+        "Response Time - MilliSeconds": "10",
+        "moid": 40211
+    },
+    {
+        "IP Address": "1.6.14.239",
+        "Availability (%)": "100",
+        "Group Name": "API TEST",
+        "name": "1.6.14.239",
+        "Packet Loss - Percentage": "2",
+        "moName": "1.6.14.239",
+        "Device Name": "DC-Lavelle- Sify-ILL",
+        "Response Time - MilliSeconds": "10",
+        "moid": 40209
+    },
+    {
+        "IP Address": "1.7.155.15",
+        "Availability (%)": "100",
+        "Group Name": "API TEST",
+        "name": "1.7.155.15",
+        "Packet Loss - Percentage": "0",
+        "moName": "1.7.155.15",
+        "Device Name": "SIFY-ILL-GATIHO",
+        "Response Time - MilliSeconds": "9",
+        "moid": 24918
+    },
+    {
+        "IP Address": "113.193.177.34",
+        "Availability (%)": "100",
+        "Group Name": "API TEST",
+        "name": "113.193.177.34",
+        "Packet Loss - Percentage": "1",
+        "moName": "113.193.177.34",
+        "Device Name": "ALC DC Tikona ILL",
+        "Response Time - MilliSeconds": "22",
+        "moid": 35102
+    },
+    {
+        "IP Address": "113.193.178.10",
+        "Availability (%)": "100",
+        "Group Name": "API TEST",
+        "name": "113.193.178.10",
+        "Packet Loss - Percentage": "0",
+        "moName": "113.193.178.10",
+        "Device Name": "Tikona-ILL-Fortinet-DC",
+        "Response Time - MilliSeconds": "33",
+        "moid": 40220
+    },
+    {
+        "IP Address": "113.193.226.242",
+        "Availability (%)": "100",
+        "Group Name": "API TEST",
+        "name": "113.193.226.242",
+        "Packet Loss - Percentage": "0",
+        "moName": "113.193.226.242",
+        "Device Name": "Tikona-ILL-Gatiho",
+        "Response Time - MilliSeconds": "50",
+        "moid": 24921
+    },
+    {
+        "IP Address": "115.244.216.182",
+        "Availability (%)": "100",
+        "Group Name": "API TEST",
+        "name": "115.244.216.182",
+        "Packet Loss - Percentage": "0",
+        "moName": "115.244.216.182",
+        "Device Name": "Jio-ILL-Fortinet-DC",
+        "Response Time - MilliSeconds": "58",
+        "moid": 40218
+    },
+    {
+        "IP Address": "14.142.215.150",
+        "Availability (%)": "100",
+        "Group Name": "API TEST",
+        "name": "14.142.215.150",
+        "Packet Loss - Percentage": "0",
+        "moName": "14.142.215.150",
+        "Device Name": "TCL-ILL-Gati_HO",
+        "Response Time - MilliSeconds": "36",
+        "moid": 40508
+    },
+    {
+        "IP Address": "14.143.113.194",
+        "Availability (%)": "100",
+        "Group Name": "API TEST",
+        "name": "14.143.113.194",
+        "Packet Loss - Percentage": "0",
+        "moName": "14.143.113.194",
+        "Device Name": "STT_DC_TCL_ILL",
+        "Response Time - MilliSeconds": "21",
+        "moid": 34805
+    },
+    {
+        "IP Address": "14.143.15.50",
+        "Availability (%)": "100",
+        "Group Name": "API TEST",
+        "name": "14.143.15.50",
+        "Packet Loss - Percentage": "1",
+        "moName": "14.143.15.50",
+        "Device Name": "TCL-ILL-Fotinet-DC",
+        "Response Time - MilliSeconds": "36",
+        "moid": 25205
+    },
+    {
+        "IP Address": "172.31.91.1",
+        "Availability (%)": "100",
+        "Group Name": "API TEST",
+        "name": "172.31.91.1",
+        "Packet Loss - Percentage": "0",
+        "moName": "172.31.91.1",
+        "Device Name": "Lavelle-HYDC-Tikona ILL",
+        "Response Time - MilliSeconds": "7",
+        "moid": 30296
+    },
+    {
+        "IP Address": "182.78.86.130",
+        "Availability (%)": "100",
+        "Group Name": "API TEST",
+        "name": "182.78.86.130",
+        "Packet Loss - Percentage": "0",
+        "moName": "182.78.86.130",
+        "Device Name": "Airtel-ILL-Gati_HO",
+        "Response Time - MilliSeconds": "28",
+        "moid": 40511
+    }
+]

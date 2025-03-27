@@ -1,0 +1,44 @@
+Name,IP Address,Up,On Hold,Maintenance,Dependent Unavailable,Down,Not Monitored,Availability(%)
+AIDR-Lavelle-JIO,115.242.159.238,29d 17h 24m 36s,0s,0s,0s,5h 35m 24s,1h,99.223
+AJM-Lavelle-JIO,115.247.97.170,29d 22h 25m 50s,0s,0s,0s,34m 10s,1h,99.921
+ALD-Lavelle-JIO,115.244.202.198,10d 11h 36m 8s,0s,0s,0s,19d 11h 23m 52s,1h,34.993
+ASL-Lavelle-JIO,136.232.84.122,29d 20h 48m 25s,0s,0s,0s,2h 11m 35s,1h,99.695
+BHD-Fortigate-JIO,115.247.97.198,21d 1h 36m 22s,0s,0s,0s,8d 21h 23m 38s,1h,70.321
+BLRS-Fortigate-JIO,136.232.201.246,21d 3h 11m 45s,0s,0s,0s,8d 19h 48m 15s,1h,70.542
+BLY-Lavelle-JIO,115.244.229.194,25d 20h 3m 12s,0s,0s,0s,4d 2h 56m 48s,1h,86.238
+BOMO-Fortigate-JIO,115.244.184.70,29d 22h 56m 15s,0s,0s,0s,3m 45s,1h,99.991
+CCUN-Fortigate-JIO,115.242.177.122,27d 8h 46m 47s,0s,0s,0s,2d 14h 13m 13s,1h,91.346
+CCUZ-Lavelle-JIO,136.232.66.158,29d 22h 56m 13s,0s,0s,0s,3m 47s,1h,99.991
+CHR-Lavelle-JIO,115.244.217.102,24d 13h 37m 26s,0s,0s,0s,5d 9h 22m 34s,1h,82.006
+DC -Fortigate-JIO,115.244.216.182,29d 22h 40m 31s,0s,0s,0s,19m 29s,1h,99.955
+DED-Lavelle-JIO,115.247.204.114,21d 18h 28m 41s,0s,0s,0s,8d 4h 31m 19s,1h,72.667
+DHG-Lavelle-JIO,136.232.66.18,29d 22h 56m 13s,0s,0s,0s,3m 47s,1h,99.991
+GATI- BLRZ- Lavelle- Jio,136.232.205.186,12d 13h 55m 10s,0s,0s,0s,17d 9h 4m 50s,1h,41.992
+GATI- HYDG- FortiGate-JIO,136.232.227.150,29d 20h 31m 57s,0s,0s,0s,2h 28m 3s,1h,99.657
+GGN-Lavelle-JIO,136.232.157.190,29d 22h 19m 16s,0s,0s,0s,40m 44s,1h,99.906
+GTR-Fortigate-JIO,115.244.217.190,29d 22h 32m 38s,0s,0s,0s,27m 22s,1h,99.937
+Gati-GUAO-Fortigate-JIO,47.247.164.26,28d 13h 33m 23s,0s,0s,0s,1d 9h 26m 37s,1h,95.349
+HSRL-Fortigate-JIO,115.242.183.142,29d 21h 54m 42s,0s,0s,0s,1h 5m 18s,1h,99.849
+HYDP-Fortigate-JIO,115.244.217.202,29d 13h 49m 22s,0s,0s,0s,9h 10m 38s,1h,98.724
+IXA-Fortigate-JIO,115.242.161.26,23d 11h 49m 29s,0s,0s,0s,6d 11h 10m 31s,1h,78.418
+IXC-Fortigate-JIO,115.244.226.126,29d 16h 15m 3s,0s,0s,0s,6h 44m 57s,1h,99.061
+IXM-Lavelle-JIO,115.244.223.122,29d 21h 18m 50s,0s,0s,0s,1h 41m 10s,1h,99.765
+JBP-Lavelle-JIO,47.247.150.202,29d 16h 32m 15s,0s,0s,0s,6h 27m 45s,1h,99.101
+JDH-Fortigate-JIO,136.232.48.106,29d 19h 38m 7s,0s,0s,0s,3h 21m 53s,1h,99.532
+JHR-Lavelle-JIO,115.244.224.14,29d 14h 54m 20s,0s,0s,0s,8h 5m 40s,1h,98.874
+KOP-Lavelle-JIO,115.244.241.70,29d 22h 48m 7s,0s,0s,0s,11m 53s,1h,99.972
+KTA-Lavelle-JIO,115.242.238.118,26d 20h 28m 37s,0s,0s,0s,3d 2h 31m 23s,1h,89.635
+MMN-Lavelle-JIO,115.244.223.182,28d 6h 50m 2s,0s,0s,0s,1d 16h 9m 58s,1h,94.414
+MUM HO-Fortigate-JIO,139.167.254.230,7d 8h 1m 28s,0s,0s,0s,0s,15h 58m 32s,100
+NSK-Fortigate-JIO,115.244.240.230,29d 22h 52m 18s,0s,0s,0s,7m 42s,1h,99.982
+PNA-Lavelle-JIO,115.240.95.166,29d 19h 16m 40s,0s,0s,0s,3h 43m 20s,1h,99.482
+RDP-Fortigate-JIO,115.242.231.226,29d 10h 43m 59s,0s,0s,0s,12h 16m 1s,1h,98.294
+RGN-Lavelle-JIO,115.244.223.106,29d 10h 20m 29s,0s,0s,0s,12h 39m 31s,1h,98.239
+SHB-Fortigate-JIO,136.232.147.10,29d 21h 10m 12s,0s,0s,0s,1h 49m 48s,1h,99.745
+SLQ-Lavelle-JIO,115.244.230.78,29d 12h 36m 25s,0s,0s,0s,10h 23m 35s,1h,98.555
+SMB-Lavelle-JIO,115.247.253.242,29d 22h 11m 15s,0s,0s,0s,48m 45s,1h,99.887
+SONY-Fortigate-JIO,136.232.66.102,23d 9h 32m 10s,0s,0s,0s,6d 13h 27m 50s,1h,78.1
+SPR-Lavelle-JIO,115.245.161.50,24d 20h 23m 55s,0s,0s,0s,5d 2h 36m 5s,1h,82.948
+TIR-Lavelle-JIO,136.232.231.34,29d 22h 52m 22s,0s,0s,0s,7m 38s,1h,99.982
+TVM-Lavelle-JIO,115.247.200.90,29d 19h 48m 54s,0s,0s,0s,3h 11m 6s,1h,99.557
+VTZ-Fortigate-JIO,115.244.217.210,29d 20h 43m 19s,0s,0s,0s,2h 16m 41s,1h,99.683
